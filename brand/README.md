@@ -1,0 +1,1 @@
+josh-emblem.svg et josh-emblem-cream.svg : tracés vectoriels extraits de la page 1 du PDF « joshua ruoss.pdf » fourni par le client. Illustration skieur et parapente, sans le texte ni le tampon de certification. Couleurs adaptées à la palette du site.
